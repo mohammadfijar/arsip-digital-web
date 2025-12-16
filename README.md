@@ -45,7 +45,7 @@ Sistem ini memiliki **3 role utama** dengan hak akses yang berbeda:
 
 ### 🔹 Pimpinan (Owner)
 
-![Dashboard Pimpinan](img/dashboardOwner.png)
+![Dashboard Pimpinan](img/dashboardPimpinan.png)
 
 * Akses **read-only** terhadap arsip
 * Menyetujui (approve) arsip yang diunggah staff
