@@ -34,6 +34,10 @@ Sistem ini memiliki **3 role utama** dengan hak akses yang berbeda:
 * Setiap aktivitas **upload dan edit tercatat otomatis** dalam riwayat
 * Tidak dapat menghapus arsip
 
+
+
+
+
 ### 🔹 Admin
 
 ![Dashboard Admin](img/dashboardAdmin.png)
@@ -42,6 +46,9 @@ Sistem ini memiliki **3 role utama** dengan hak akses yang berbeda:
 * CRUD data arsip (Create, Read, Update, Delete)
 * Manajemen pengguna dan role
 * Melihat seluruh data arsip dan aktivitas sistem
+
+
+
 
 ### 🔹 Pimpinan (Owner)
 
