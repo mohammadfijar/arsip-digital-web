@@ -35,7 +35,7 @@ Sistem ini memiliki **3 role utama** dengan hak akses yang berbeda:
 * Tidak dapat menghapus arsip
 
 
-
+---
 
 
 ### 🔹 Admin
@@ -48,7 +48,7 @@ Sistem ini memiliki **3 role utama** dengan hak akses yang berbeda:
 * Melihat seluruh data arsip dan aktivitas sistem
 
 
-
+---
 
 ### 🔹 Pimpinan (Owner)
 
