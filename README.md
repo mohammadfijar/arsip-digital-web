@@ -100,12 +100,12 @@ Screenshot aplikasi ditempatkan pada folder **img/**:
 
 Contoh penampilan di README:
 
-```md
+
 ![Login](img/login.png)
 ![Dashboard Admin](img/dashboardAdmin.png)
 ![Dashboard Staff](img/dashboardStaff.png)
 ![Dashboard Pimpinan](img/dashboardOwner.png)
-```
+
 
 ---
 
