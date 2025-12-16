@@ -6,6 +6,9 @@ Sistem Arsip Digital Berbasis Web adalah aplikasi berbasis website yang digunaka
 
 Aplikasi ini sangat cocok digunakan pada instansi pendidikan, organisasi, maupun perkantoran yang membutuhkan sistem pengelolaan arsip terkomputerisasi dengan pembagian hak akses yang jelas.
 
+
+![Login](img/login.png)
+
 ---
 
 ## 🎯 Tujuan Pengembangan
@@ -24,6 +27,8 @@ Sistem ini memiliki **3 role utama** dengan hak akses yang berbeda:
 
 ### 🔹 Staff
 
+![Dashboard Staff](img/dashboardStaff.png)
+
 * Upload arsip dokumen
 * Mengedit arsip yang telah diunggah
 * Setiap aktivitas **upload dan edit tercatat otomatis** dalam riwayat
@@ -31,12 +36,16 @@ Sistem ini memiliki **3 role utama** dengan hak akses yang berbeda:
 
 ### 🔹 Admin
 
+![Dashboard Admin](img/dashboardAdmin.png)
+
 * Login sebagai pengelola sistem
 * CRUD data arsip (Create, Read, Update, Delete)
 * Manajemen pengguna dan role
 * Melihat seluruh data arsip dan aktivitas sistem
 
 ### 🔹 Pimpinan (Owner)
+
+![Dashboard Pimpinan](img/dashboardOwner.png)
 
 * Akses **read-only** terhadap arsip
 * Menyetujui (approve) arsip yang diunggah staff
@@ -86,27 +95,6 @@ arsip_digital/
 ├── composer.json
 └── composer.lock
 ```
-
----
-
-## 🖼️ Tampilan Aplikasi
-
-Screenshot aplikasi ditempatkan pada folder **img/**:
-
-* `login.png` → Halaman Login
-* `dashboardAdmin.png` → Dashboard Admin
-* `dashboardStaff.png` → Dashboard Staff
-* `dashboardOwner.png` → Dashboard Pimpinan
-
-Contoh penampilan di README:
-
-
-![Login](img/login.png)
-![Dashboard Admin](img/dashboardAdmin.png)
-![Dashboard Staff](img/dashboardStaff.png)
-![Dashboard Pimpinan](img/dashboardOwner.png)
-
-
 ---
 
 ## 🚀 Cara Menjalankan Aplikasi
